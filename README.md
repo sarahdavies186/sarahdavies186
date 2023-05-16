@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently studying at Makers<br>🌱 I’m currently learning Javascript, React, Ruby <br>
+🔭 I have recently graduated from Makers Academy Software Development Bootcamp and looking for my next role
+<br>
+🌱 I’m currently learning Javascript, React, Ruby <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-davies-b750521b9) 
