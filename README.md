@@ -1,8 +1,10 @@
 ## About Me:
-🔭 I have recently graduated from Makers Academy Software Development Bootcamp and looking for my next role
+🔭 I have recently graduated from Makers Academy Software Development Bootcamp and am open to roles 
 <br>
 🌱 I’m currently improving my skills in Javascript and React and learning Typescript <br>
-💼 View my portfolio [here](https://sarahdavies.netlify.app/)
+💼 View my portfolio [here](https://sarahdavies.netlify.app/) <br>
+📄 See my CV [here](https://github.com/sarahdavies186/CV)
+  
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-davies-b750521b9) 
