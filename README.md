@@ -1,5 +1,5 @@
 ## About Me:
-🔭 Junior Frontend Developer, recently graduated from Makers Academy Software Development Bootcamp
+🔭 Junior Frontend Developer, graduate of Makers Academy Software Development Bootcamp
 <br>
 🌱 I’m currently improving my skills in Javascript and learning Typescript <br>
 💼 View my portfolio [here](https://sarahdavies.netlify.app/) <br>
