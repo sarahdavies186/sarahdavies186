@@ -1,5 +1,5 @@
 ## About Me:
-🔭 Frontend Developer, graduate of Makers Academy Software Development Bootcamp
+🔭 Software Developer, graduate of Makers Academy Software Development Bootcamp
 <br>
 🌱 I’m currently improving my skills in Javascript and learning Typescript <br>
 💼 View my portfolio [here](https://sarahdavies.netlify.app/) <br>
