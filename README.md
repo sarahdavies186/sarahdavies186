@@ -1,7 +1,7 @@
 ## About Me:
 🔭 Software Developer, graduate of Makers Academy Software Development Bootcamp
 <br>
-🌱 I’m currently improving my skills in Javascript and learning Typescript <br>
+🌱 I’m currently improving my skills in React and learning Typescript and Python <br>
 💼 View my portfolio [here](https://sarahdavies.netlify.app/) <br>
 📄 See my CV [here](https://github.com/sarahdavies186/CV)
   
